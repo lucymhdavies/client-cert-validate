@@ -28,3 +28,6 @@ This will
 
 
 In a real application, we would use OU and O to determine Authorization within our application
+
+
+A real application should also require use of the private key in some way.
